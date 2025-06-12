@@ -16,7 +16,7 @@
 
 - Kotlin
 - Jetpack Compose
-- Android Studio Hedgehog
+- Android Studio Ladybug
 
 ## 🎯 목적
 
