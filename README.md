@@ -4,7 +4,7 @@
 
 ## 📚 학습 출처
 
-- [Jetpack Compose 기초 - 실습 문제](https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-practice-problems?hl=ko)
+- [Jetpack Compose 기초 - 실습 문제 (1단계부터 시작)](https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-practice-problems?hl=ko)
 
 ## 💡 내용
 
